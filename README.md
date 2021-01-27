@@ -2,7 +2,7 @@
 my nvim configuration
 
 ## Environment
-WSL2 Ubuntu20.04
+WSL2 Ubuntu20.04  
 NeoVim 0.4.3
 
 ## Plugins
