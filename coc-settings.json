@@ -1,0 +1,23 @@
+{
+	"coc.preferences.enableMarkdown": true,
+	"coc.preferences.extensionUpdateCheck": "daily",
+	"suggest.noselect": true,
+	"suggest.enablePreselect": false,
+	"markdownlint.config":
+	{
+		"default": true,
+		"MD010":{
+			"code_blocks": false
+		},
+		"MD025":{
+			"front_matter_title": ""
+		},
+		"MD033":{
+			"allowed_elements": ["font", "li", "table", "tr", "td", "center", "pre", "code"]
+		}
+	},
+	"python.linting.pylintArgs": [
+		"--errors-only",
+		"--disable=E0401"
+	]
+}
