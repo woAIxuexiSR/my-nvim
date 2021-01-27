@@ -6,20 +6,20 @@ WSL2 Ubuntu20.04
 NeoVim 0.4.3
 
 ## Plugins
-1. indentLine
-= = 忘了，但是不太重要
-2. vim-monokai
+1. indentLine  
+= = 忘了，但是不太重要，总之和缩进有关
+2. vim-monokai  
 颜色主题
-3. coc-vim
+3. coc-vim  
 自动补全插件
-4. nerdcommenter
+4. nerdcommenter  
 多行注释  
 visual mode：`\`+`cc`注释，`\`+`cu`取消
-5. markdown-preview
+5. markdown-preview  
 markdown预览  
 `:MarkdownPreview`预览，`:MarkdownPreviewStop`停止  
 迷之配置，`localhost:port`并不能打开，但是`localhost:port/page/1`可以，多个文件则依次为1,2,3...
-6. eleline.vim
+6. eleline.vim  
 显示当前文件状态
 
 ## Useful Keys
@@ -39,6 +39,7 @@ markdown预览
 `:w`: save  
 `:q`: quit  
 `/`: search, `n` jump to next  
+`<shift>` + `<`/`>`: 多行缩进  
 
 ## Projections
 `ter`: `:tabe` + `:term` 在新标签页中打开终端  
