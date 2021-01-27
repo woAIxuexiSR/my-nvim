@@ -27,7 +27,7 @@ markdown预览
 `gg`: top  
 `G`: bottom  
 `V`: visual line  
-`<up>/k <down>/j <left>/h <right>/l`: move cursor  (当然我选择直接`set mouse`)  
+`<up>/k` `<down>/j` `<left>/h` `<right>/l`: move cursor  (当然我选择直接`set mouse`)  
 `:sp`: split window up/down  
 `:vsp`: split window left/right  
 `:tabe(dit)`: new tab  
